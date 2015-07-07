@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">PhotoPattern</string>
-    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps">Mappic</string>
     <string name="title_activity_list_gallery">ListGalleryActivity</string>
 
     <string name="hello_world">Hello world!</string>
